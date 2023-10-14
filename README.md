@@ -1,14 +1,3 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
 # Buy-Me-A-Coffee-App
+![iter1_part1](https://github.com/cosmatudor/Buy-Me-A-Coffee-App/assets/111079498/e99c1e40-ff67-4326-b436-ffef78803f70)
+![iter1_part2](https://github.com/cosmatudor/Buy-Me-A-Coffee-App/assets/111079498/eddb34dd-2563-4dc3-bd74-f6971b8b3ee2)
